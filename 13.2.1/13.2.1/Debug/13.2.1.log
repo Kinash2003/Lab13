@@ -1,0 +1,9 @@
+﻿  13.2.1.cpp
+D:\Lab_13\13.2.1\13.2.1\13.2.1.cpp(17,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Before.cpp
+  False.cpp
+  Repeat.cpp
+  True.cpp
+  var.cpp
+  Создание кода...
+  13.2.1.vcxproj -> D:\Lab_13\13.2.1\Debug\13.2.1.exe
